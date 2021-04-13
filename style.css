@@ -6,8 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Space+Mono&display=swap');
-
-@media only screen and (min-width:599.1px) {
+ {
 
     .section-head header {
         font-family: 'Inconsolata',
@@ -91,7 +90,7 @@
 
 }
 
-@media only screen and (max-width:599px) {
+@media only screen and (max-width:720px) {
     .section-head header{
         position: absolute;
         width: 163px;
