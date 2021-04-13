@@ -90,7 +90,7 @@
 
 }
 
-@media only screen and (max-width:720px) {
+@media only screen and (max-width:400px) {
     .section-head header{
         position: absolute;
         width: 163px;
